@@ -45,8 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor totam cumque unde nemo harum modi accusantium quis nobis repellat libero, aut iure excepturi ducimus natus quas, eveniet voluptatem illo similique nisi esse. Aperiam tenetur libero vitae officiis, id delectus dolorum ipsum nisi iure minus. Fugiat reprehenderit maiores iure dolores expedita. Quasi voluptate a dolorem, cum porro debitis molestiae nihil nam?
-
+        As a Full Stack Developer specializing in the Shopify ecosystem, I craft seamless and scalable e-commerce solutions. My expertise lies in integrating modern web technologies with Shopify's platform to enhance user experience and drive business growth. With a passion for clean code and intuitive design, I transform complex requirements into efficient, user-friendly applications.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
