@@ -80,18 +80,18 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
+    // {
+    //   name: "TypeScript",
+    //   icon: typescript,
+    // },
     {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+    // {
+    //   name: "Redux Toolkit",
+    //   icon: redux,
+    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -105,8 +105,12 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "RESTapi",
+      icon: typescript,
+    },
+    {
+      name: "Express",
+      icon: docker,
     },
     {
       name: "git",
@@ -117,9 +121,9 @@ import {
       icon: figma,
     },
     {
-      name: "docker",
-      icon: docker,
-    },
+      name: "shopify",
+      icon: shopify,
+    }
   ];
   
   const experiences = [
@@ -159,22 +163,12 @@ import {
         "Optimizing performance and mobile responsiveness for e-commerce clients."
       ],
     },
-    // {
-    //   title: "Full stack Developer",
-    //   company_name: "Meta",
-    //   icon: meta,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2023 - Present",
-    //   points: [
-    //     "Currently part of a team at Meta building internal tools for content moderation and community management. My work spans frontend development with React and backend development using Node.js and Express. I led the implementation of a role-based access control system and helped refactor legacy code into a more modular architecture."
-    //   ],
-    // },
   ];
   
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but Yunhao proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -182,7 +176,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like Yunhao does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -190,7 +184,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Yunhao optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
